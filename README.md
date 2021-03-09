@@ -2,6 +2,8 @@
 
 > 유튜브 강의 수강 후 블로그에 정리 (35일 챌린지🔥)
 >
+> 2021.03.10 ~
+>
 > 강의 링크 : https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi
 >
 
