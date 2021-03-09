@@ -31,9 +31,9 @@ https://www.tistory.com/
 
 #### 곽온겸
 
-##### 01. 네트워크란 무엇인가? - 실습1(tracert)
+##### 01. 네트워크란 무엇인가? - 실습1(tracert) 
 
-https://www.tistory.com/
+https://codingantbean.tistory.com/
 
 ---
 
