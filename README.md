@@ -21,35 +21,11 @@
 
 ### 2021.03.10
 
-#### 조명희
+#### 이종희
 
-##### 01. 네트워크란 무엇인가? - 실습1(tracert)
+##### 01. 네트워크란 무엇인가? 
 
-https://www.tistory.com/
-
-
-
-#### 곽온겸
-
-##### 01. 네트워크란 무엇인가? - 실습1(tracert)
-
-https://www.tistory.com/
+https://jjong2.tistory.com/3
 
 ---
-
-### 2021.03.09
-
-#### 조명희
-
-##### 01. 네트워크란 무엇인가?
-
-https://www.tistory.com/
-
-
-
-#### 곽온겸
-
-##### 01. 네트워크란 무엇인가?
-
-https://www.tistory.com/
 
