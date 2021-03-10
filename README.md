@@ -51,5 +51,5 @@ https://www.tistory.com/
 
 ##### 01. 네트워크란 무엇인가?
 
-https://www.tistory.com/
+https://codingantbean.tistory.com/2
 
