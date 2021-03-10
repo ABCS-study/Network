@@ -23,8 +23,13 @@
 
 ### 2021.03.10
 
-#### 조명희
+#### 이종희
+##### 01. 네트워크란 무엇인가? 
 
+https://jjong2.tistory.com/3
+
+
+#### 조명희
 ##### 01. 네트워크란 무엇인가?
 
 https://maeng2world.tistory.com/21
@@ -41,3 +46,4 @@ https://codingantbean.tistory.com/2
 ##### 01. 네트워크란 무엇인가?
 
 https://github.com/leekangrim/TIL/tree/master/network/1%EA%B0%95
+
