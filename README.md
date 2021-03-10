@@ -21,7 +21,6 @@
 
 
 
-
 ### 2021.03.10
 
 #### 조명희
@@ -29,3 +28,10 @@
 ##### 01. 네트워크란 무엇인가?
 
 https://maeng2world.tistory.com/21
+
+
+#### 곽온겸
+
+##### 01. 네트워크란 무엇인가?
+
+https://codingantbean.tistory.com/2
