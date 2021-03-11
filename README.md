@@ -35,6 +35,12 @@ https://jjong2.tistory.com/4
 
 https://maeng2world.tistory.com/22
 
+#### 이강림
+
+##### 01. 네트워크란 무엇인가? 실습1(tracert)
+
+https://github.com/leekangrim/TIL/tree/master/network/2%EA%B0%95
+
 
 
 ---
