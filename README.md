@@ -30,6 +30,12 @@ https://jjong2.tistory.com/6
 
 
 
+#### 조명희
+
+##### 01. 네트워크란 무엇인가? - 실습2(Wireshark)
+
+https://maeng2world.tistory.com/25
+
 ---
 
 
