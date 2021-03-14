@@ -30,6 +30,12 @@ https://jjong2.tistory.com/9
 
 
 
+#### 조명희
+
+##### 02. 네트워크의 기준! 네트워크 모델
+
+https://maeng2world.tistory.com/26
+
 ---
 
 
